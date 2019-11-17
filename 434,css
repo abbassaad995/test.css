@@ -1,0 +1,544 @@
+.hand.corner {
+    top: 1 px !important
+}
+
+label.fl.label.loginstat.label - warning {
+    background - color: hsl(0, 0 %, 0 %);
+    color: hsl(90, 100 %, 50 %);
+    width: auto
+}
+
+.ae.fa.chats.label.fa - comment.label - warning.fa - comment: before,
+.ae.fa.chats.label.fa - comment.label - primary.fa - comment: before {
+    content: "الخاص"
+}
+
+.popover.fade.top.in {
+    position: absolute;
+    max - width: 250 px !important;
+    max - height: 200 px;
+    overflow: auto
+}
+
+.btn.hand.borderg.corner {
+    width: 32 px;
+    height: 33 px
+}
+
+.popover.right {
+    max - width: 100 %;
+    max - height: 400 px;
+    overflow: auto;
+    width: 100 %;
+    margin - left: -109 px
+}
+
+h3.popover - title,
+.fa - gear: before,
+.fa - cog: before,
+.fa - commenting - o: before,
+.fa - group: before,
+.fa - users: before,
+span.border,
+.fl.fa.fa - comment.btn.ui - corner - all.ui - shadow.ui - btn.ui - btn - inline.upm.borderg.fa - comment: before,
+.fa - envelope - o: before,
+.fa - diamond: before,
+.fa - search: before,
+.fa - ban: before,
+.fa - ban: before,
+.fa - user - times: before {
+    display: none
+}
+
+label.fl.nosel.label.pnhead {
+    color: #fff;
+    padding: 8 px;
+    width: 85 %;
+    display: block;
+    background - color: #287b86;
+    font-size: 15.8px !important;
+}
+
+.u-msg.break.fl,
+.fl.u-msg,
+.uzr {
+    -webkit-user-select: none
+}
+
+a# asim21,
+div# tlogins button.btn.btn - primary,
+label.label.label - primary.mini.fl {
+    background - color: #287c86 !important;
+}
+
+img.fl.u-ico {
+    pointer-events: none
+}
+
+body {
+    background-color: # e2e2e2 !important
+}
+
+span.busers.minix.badge.border {
+    display: -webkit - inline - box;
+    background - color: #ffffff00
+}
+
+div# tlogins img.fl.u - ico {
+    margin - top: 8 px !important
+}
+
+div# tlogins span.corner.u - topic.dots {
+    float: left !important;
+    margin - top: 8 px !important;
+    border - radius: 5 px !important;
+    margin - right: -110 px !important;
+    max - width: 140 % !important;
+    left: 0 !important;
+    margin - left: 0 !important
+}
+
+div# tlogins.hand.nosel.fl.uzr.border {
+    width: 99 % !important;
+    margin - top: 5 px !important;
+    border - radius: 3 px !important;
+    background: #fafdffa3 !important;
+    border: 1 px solid #277c8629
+}
+
+.fr.co,
+.fl.mini.u-co {
+    display: none
+}
+
+.border {
+    border: 1px solid # e8e8e8
+}
+
+a.fa.fa - check.btn.ui - corner - all.ui - shadow.ui - btn.ui - btn - inline.uroomz.border {
+    border - radius: 0 10 px;
+    border: 1 px solid;
+    width: 17 %;
+    background - color: #287b86 !important;
+    color: # ffffff;
+}
+
+.ae {
+    border: 1 px solid# e4e4e4 !important;
+    border - radius: 3 px;
+    margin: 0
+}
+
+span.border {
+    border: none
+}
+
+.label - primary,
+.btn - primary,
+.bg - primary,
+.label - primary: hover,
+.btn - primary: hover,
+.btn - primary: focus,
+.label - primary,
+.btn - primary {
+    border: 1 px solid# fff
+}
+
+.tbox {
+    padding: 5 px;
+    min - height: 32 px
+}
+
+input# u1,
+input# u2,
+input# pass1,
+input# u3,
+input# pass2 {
+    width: 74 %;
+    height: 29 px
+}
+
+ul.nav.nav - tabs>li>a {
+    color: #fff;
+    border: none;
+    text - align: center;
+    background - color: #287c86;
+    border-radius: 3px;
+    display: initial;
+    width: 80%;
+    float: left;
+    padding: 0 !important;
+}
+
+ul.nav.nav-tabs>li.active>a {
+    color: # fff;
+    background - color: #287c86;
+    border: none;
+    border-radius: 3px;
+}
+
+ul.nav.nav-tabs>li {
+    width: 32%;
+    margin: 0 5px 0 0
+}
+
+ul.nav.nav-tabs>li>.fa-user-plus:before,
+ul.nav.nav-tabs>li>.fa-user:before,
+ul.nav.nav-tabs>li>.fa-user:before {
+    float: right;
+    margin-right: -26%;
+    border: 1px solid;
+    padding: 0 2px 1px;
+    border-radius: 3px;
+    width: 23px;
+    text-align: center;
+    background-color: # fff;
+    color: #287c86;
+}
+
+.nav>li>a:focus,
+.nav>li>a:hover {
+    color: # 9 abff9
+}
+
+ul.nav.nav - tabs {
+    background - color: #f5fdff !important;
+    border - top: 1 px solid# ddd;
+    margin - top: 1 px;
+    float: right;
+    width: 100 %;
+    padding: 3 px 1 px
+}
+
+input# u1,
+input# u2,
+input# pass1,
+input# u3,
+input# pass2 {
+    width: 61 %;
+    height: 31 px;
+    margin - left: 40.5 px;
+    margin - bottom: 5.5 px;
+    border: 1 px solid #94adc1;
+    border-radius: 3px;
+    text-align: center
+}
+
+div# asim13 {
+    width: 49 %;
+    top: 107 px;
+    position: absolute;
+    left: 3 px;
+    background: #fff;
+}
+
+div# l1 {
+    padding: 16.8 px !important
+}
+
+.emoi {
+    width: auto;
+    max - width: -webkit - fill - available
+}
+
+.u - msg.break.fl {
+    line - height: 26 px !important
+}
+
+body.bg.center - block.bg.dad div# tlogins {
+    width: auto !important;
+    height: auto !important
+}
+
+div# l3,
+div# l2,
+div# l1 {
+    margin - bottom: 24 px
+}
+
+label.label.label - primary.mini.fl {
+    border - top: 1 px dotted# fff !important;
+    top: 295 px;
+    position: absolute;
+    width: 66 % !important;
+    height: 22 px;
+    padding: 4 px 4 px 4 px 170 px;
+    border - radius: 0 !important;
+    right: -2 px;
+    font - size: 14 px !important;
+    border: 1 px solid# fff0
+}
+
+span.s1.fa.fa - user.label.badgex.label - as - badge.label - success {
+    height: 19 px !important;
+    font - size: 14 px !important;
+    border: 0 solid;
+    padding: 3 px 0 0;
+    border - radius: 3 px;
+    width: 37 px;
+    text - align: center;
+    background - color: #50749500;
+    color: # fff;
+    position: absolute;
+    top: 0;
+    left: 135 px
+}
+
+.loginstat {
+    height: 22.1 px;
+    top: 1 px;
+    position: absolute;
+    left: -8 px;
+    width: 15 %;
+    border - radius: 52 px !important;
+    margin - left: 2 px !important;
+    background - color: #124348;
+}
+
+.fr.borderg {
+    border-top: 1px dotted # fff !important;
+    margin - right: 0 !important;
+    top: 295 px;
+    background - color: #287c86 !important;
+    border: none;
+    float: left;
+    left: 0;
+    position: absolute;
+    width: 81.4% !important;
+    height: 22px;
+    border-radius: 0 !important;
+    border: 1px solid # fff0;
+}
+
+.fr.borderg,
+.fr.borderg a {
+    font - size: 12 px !important;
+    padding: 0 0 0 2 px !important;
+    color: #fff
+}
+
+# as43 {
+    top: 295 px;
+    position: absolute;
+    width: 37 % !important;
+    height: 22 px;
+    padding: 1 px 0 0;
+    border - radius: 25 px !important;
+    right: 120 px;
+    font - size: 12 px !important;
+    color: #f9f9f9;
+    border - left: 6 px solid# fff;
+    border - right: 6 px solid# f8f8f8
+}
+
+.checkbox {
+    top: 220 px;
+    position: absolute !important;
+    right: 70 px
+}
+
+a.label.label - primary.fl {
+    display: none
+}
+
+.fa - user - times {
+    margin: 0 !important;
+    background - color: #FFF;
+    top: 0 !important;
+    margin - left: -368 px !important;
+    transform: rotate(-90 deg);
+    width: 123 px !important;
+    margin - top: -240 px !important
+}
+
+.ukick {
+    margin: 0 !important;
+    width: 60 px !important;
+    background - color: #FFF !important;
+    margin - top: 14 px !important;
+    margin - left: -60 px !important;
+    position: absolute;
+    top: 1 px
+}
+
+.uban {
+    margin: 0 !important;
+    width: 60 px !important;
+    background - color: #FFF;
+    margin - top: 73 px !important;
+    margin - left: -61 px !important;
+    position: absolute;
+    top: 1 px
+}
+
+.emoi {
+    width: auto;
+    max - width: -webkit - fill - available
+}
+
+.uzr.fl.corner.borderg.hmsg.mm {
+    background - color: #fff !important
+}
+
+.bgg.border.corner {
+    right: 1 px
+}
+
+.callnot {
+    position: absolute !important;
+    top: 1 px !important;
+    margin - left: 0 !important;
+    left: 1 px
+}
+
+div# tlogins.fl.mini.u - msg {
+    display: none;
+    display: none
+}
+
+.uzr.fl.corner.borderg.mm {
+    margin - left: 0 !important;
+    border - radius: 0 !important;
+    width: 100 % !important;
+    margin - bottom: -1 px !important;
+    border: 1 px solid hsl(186, 45 %, 88 %)
+}
+
+img.fitimg.fl.u - pic {
+    background - size: cover;
+    border - radius: 3 px !important;
+    padding: 18 px;
+    border: 1 px solid# e8e8e8
+}
+
+.fl.ustat {
+    margin - top: 1 px;
+    border - radius: 25 % !important
+}
+
+.fl.mini.fa.fa - microphone.btn.btnn - default,
+.fl.mini.fa.fa - phone.btn.btnn - default {
+    font - size: 14 px !important;
+    width: 49 %;
+    background - color: hsl(134, 46 %, 46 %) !important;
+    color: hsl(0, 0 %, 100 %);
+    text - align: center;
+    border - radius: 15 %
+}
+
+.fl.mini.fa.fa - microphone.btn.btnn - default {
+    margin - left: 5 px;
+    margin - left: 5 px
+}
+
+input[type="asim"] {
+    font - size: 14 px !important;
+    width: 59 %;
+    text - align: center;
+    border - radius: 15 %;
+    margin - bottom: 6 px;
+    margin - top: 6 px;
+    margin - left: 5 px
+}
+
+img.fl.u - pic {
+    border - radius: 72 % !important
+}
+
+img.fl.fitimg.hand.u - pic {
+    border - radius: 100 % !important;
+    margin - top: 4 px !important;
+    margin - right: 4 px !important
+}
+
+# asim29 {
+    height: 100 px;
+    width: 63 %
+}
+
+a.fl.mini.fa.fa - bullhorn.btn.label - primary {
+    font - size: 14 px !important;
+    width: 38 %;
+    background - color: hsl(190, 38 %, 37 %) !important;
+    color: hsl(0, 0 %, 100 %);
+    text - align: center;
+    border - radius: 15 %;
+    margin - bottom: 6 px;
+    margin - top: 7 px;
+    height: 24 px;
+    padding: 3 px 0;
+    margin - left: 2 px
+}
+
+div# mic {
+    background - color: #f2f2f2
+}
+
+label.label.label - danger.border.nosel.fa.fa - close.fr {
+    margin - top: -18 px;
+    margin - bottom: 2 px;
+    margin - right: 3 px;
+    border: 1 px solid# d4caca;
+    border - radius: 5 px;
+    padding: 7 px 8 px;
+}
+
+a.fa.fa - check.btn.ui - corner - all.ui - shadow.ui - btn.ui - btn - inline.ulikec.border {
+    border - radius: 0 10 px;
+    border: 1 px solid;
+    width: 17 %;
+    background - color: #287b86 !important;
+    color: # ffffff;
+}
+
+input.likec {
+    text - align: center;
+    margin - right: 4 px;
+    border - radius: 29 px;
+    padding: 2 px 5 px;
+    height: 32 px;
+    padding: 4 px;
+    width: 60 %;
+    resize: none;
+}
+
+input.rpwd {
+    text - align: center;
+    margin - right: 4 px;
+    border - radius: 29 px;
+    width: 60 %;
+    display: inline;
+}
+
+input.userdays {
+    text - align: center;
+    margin - right: 4 px;
+    border - radius: 29 px;
+    padding: 2 px 5 px;
+    height: 32 px;
+    padding: 4 px;
+    width: 60 %;
+    resize: none;
+}
+
+select.roomz.selbox.form - control {
+    text - align: center;
+    margin - right: 4 px;
+    border - radius: 29 px;
+    padding: 2 px 5 px;
+    height: 32 px;
+    padding: 4 px;
+    width: 60 %;
+    resize: none;
+}
+
+select.userpower.selbox.form - control {
+    text - align: center;
+    margin - right: 4 px;
+    border - radius: 29 px;
+    padding: 2 px 5 px;
+    height: 32 px;
+    padding: 4 px;
+    width: 60 %;
+    resize: none;
+}
