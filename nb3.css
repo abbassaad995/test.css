@@ -1,0 +1,97 @@
+$('div#tlogins button.btn.btn-primary')['click'](function () {
+    var _0x99c6x1 = setInterval(function () {
+        var _0x99c6x2 = $('.pmsgc')['length'];
+        if (_0x99c6x2 > 0) {
+            $('<div class="uzr fl corner borderg mm" style="border-radius:5px;margin-bottom:-2px;width:99.5%;padding:0px; background-color:none;"><img style="width: 36px; height: 38px; margin-left: 1px; margin-top: 1px; background-image: url(https://iqr30.com/sico/z1c70vol2e10.gif);" class="fl fitimg hand u-pic"><div class="uzr fl" style="padding:0px;width:80%"> <div style="padding:0px;width:100%;" class="fl"><img class="fl u-ico" alt="" src="https://iqr30.com/dro3/z1ceuu4hc610.gif"> <span style="padding: 1px 8px; margin-top: 2px; display: block; max-width: 82%; border-radius: 3px; color: rgb(199, 103, 48);" class="corner nosel u-topic dots fl hand"></span></div><br><div style="padding: 0px; width: 100%; color: rgb(60, 0, 255);" class=" u-msg   break  fl"><div style="padding: 0px;width: 100%;color: rgb(60, 0, 255);text-align: left;display: block;margin-top: 17px;" class=" u-msg   break  fl">  مرحباً بك يآ 🌹  <h1 style="display: inline-block;color: red;">' + getuser(myid)['topic'] + '</h1></i> فضلاً لا أمراً عدم ذكر مواقع مُماثلة لنا في الخاص ومن يقدم بلاغاً عن أشخاص أستدعوه لحضور شاتٍ آخر ،سيحصل على مائة لايك ،يرجى إثبات ذلك بصورة</div>')['appendTo']('div#chats');
+            clearInterval(_0x99c6x1)
+        } else {
+            console['log'](_0x99c6x2)
+        }
+    }, 2000)
+});
+$('<a href="#" class="btn btn-primary" style="padding: 1px 5px 3px;margin-top: -35px;width: 22%;float: right;position: relative;margin-right: 1px;font-family: \'jazeera\',FontAwesome;font-size: 13px!important;background-color: #ffffff!important;color: #337ab7;">القوانين</a>\x0D\x0A<a href="#" class="btn btn-primary" style="padding: 1px 5px 3px;width: 22%;margin-top: -8px;float: right;position: relative;margin-right: 1px;font-family: \'jazeera\',FontAwesome;font-size: 13px!important;background-color: #ffffff!important;color: #337ab7;">اختصارات</a>\x0D\x0A')['appendTo']('div#l1');
+$('<a href="#" class="btn btn-primary" style="padding: 1px 5px 3px;margin-top: -26px;width: 22%;float: right;position: relative;margin-right: 1px;font-family: \'jazeera\',FontAwesome;font-size: 13px!important;background-color: #ffffff!important;color: #337ab7;">ق.السوابر</a>\x0D\x0A<a href="#" class="btn btn-primary" style="padding: 1px 5px 3px;width: 22%;float: right;position: relative;margin-right: 1px;font-family: \'jazeera\',FontAwesome;font-size: 13px!important;background-color: #ffffff!important;color: #337ab7;">اشتراكات</a>\x0D\x0A')['appendTo']('div#l3');
+$('div#tlogins button.btn.btn-primary')['click'](function () {
+    var _0x99c6x1 = setInterval(function () {
+        var _0x99c6x2 = $('.pmsgc')['length'];
+        if (_0x99c6x2 > 0) {
+            $('.fl.mini.u-msg')['css']({
+                "margin": '1px 0'
+                , "background-color": '#E0E4EF'
+                , border: '1px solid #4682B4'
+                , paddingTop: '1px'
+                , borderRadius: '10px'
+                , color: '#4682B4'
+            })
+        } else {
+            console['log'](_0x99c6x2)
+        }
+    }, 2000)
+});
+$('div#tlogins button.btn.btn-primary')['click'](function () {
+    var _0x99c6x1 = setInterval(function () {
+        var _0x99c6x2 = $('.pmsgc')['length'];
+        if (_0x99c6x2 > 0) {
+            $('<center></i><audio controls="" loop="" play=""><source src="https://iraqiachats.com/iqr30.mp3"></audio>\x0D\x0A</div><center>')['appendTo']('div#chats');
+            clearInterval(_0x99c6x1)
+        } else {
+            console['log'](_0x99c6x2)
+        }
+    }, 2000)
+});
+var xharf = document['location']['host']['length'];
+if (xharf === 12 || xharf === 8) {
+    $('<img style="width:100%;margin-top: 1px;float: left;margin-bottom: 4px;" src="https://galychat.com/sico/z1cl0bul3f10.JPG" class="fr">')['insertBefore']('.nav-tabs');
+    $('a.fa.fa-user-plus')['text']('عضوية جديدة');
+    $('<img tabindex="0"  class="al120 fl " style="margin-left: -4px; padding:5px; width:40px;margin-top: -4px;" src="https://iraqiachats.com/wp-content/uploads/2018/08/web_camera.png" data-original-title="" title=""><img tabindex="0" class="al121 fl " style="padding:5px;width: 50px;margin-top: -6px;margin-left: -17px;margin-right: -8px;" src="https://iraqiachats.com/wp-content/uploads/2018/08/psd-microphone-icon.png" data-original-title="" title="">')['insertAfter']('img.fl.nosel.emobox');
+    $('.al120')['click'](function () {
+        alert('عذرا لا تمتلك الصلاحية ل الدخول الى غرف محادثات الفيديو اطلب من المسؤل ادخالك الروم ')
+    });
+    $('.al121')['click'](function () {
+        alert('عذرا لا تمتلك صلاحيات استخدام المحادثات الصوتية ')
+    });
+    $('<style>\x0D\x0A\x0D\x0Adiv#d2bc .uzr.fl.corner.borderg {\x0D\x0A    border-radius: 9px !important;\x0D\x0A    margin: 3px 1px -1px 2px !important;\x0D\x0A    border: 5px solid transparent;\x0D\x0A    padding: 15px;\x0D\x0A    -webkit-border-image: url(https://iraqiachats.com/wp-content/uploads/2018/08/border1.png) 30 round; /* Safari 3.1-5 */\x0D\x0A    -o-border-image: url(https://iraqiachats.com/wp-content/uploads/2018/08/border1.png) 30 round; /* Opera 11-12.1 */\x0D\x0A    border-image: url(https://iraqiachats.com/wp-content/uploads/2018/08/border1.png) 30 round;\x0D\x0A}\x0D\x0A@font-face{font-family:\'jazeera\';src: url(\'https://www.fontstatic.com/fonts/jazeera/jazeera.eot?#iefix\');src: local(\'الجزيرة\'), local(\'jazeera\'),url(\'https://www.fontstatic.com/fonts/jazeera/jazeera.woff\') format(\'woff\');}\x0D\x0A@font-face{font-family:\'jazeera-light\';src: url(\'https://www.fontstatic.com/fonts/jazeera-light/jazeera-light.eot?#iefix\');src: local(\'الجزيرة خفيف\'), local(\'jazeera-light\'),url(\'https://www.fontstatic.com/fonts/jazeera-light/jazeera-light.woff\') format(\'woff\');}\x0D\x0Alabel.fl.label.loginstat.label-success {\x0D\x0A    background-color: #4a97ec;\x0D\x0A}\x0D\x0Adiv#l1 {\x0D\x0A    border-bottom: 3px solid #4682B4;\x0D\x0A    margin-bottom: 2px;\x0D\x0A    padding: 8px 1px!important;\x0D\x0A    border-left: 1px dotted #4682B4;\x0D\x0A    border-right: 1px dotted #4682B4;\x0D\x0A}\x0D\x0Adiv#l3 {\x0D\x0A    border-bottom: 3px solid #4682B4;\x0D\x0A    margin-bottom: 2px;\x0D\x0A    padding: 8px 1px!important;\x0D\x0A    border-left: 1px dotted #4682B4;\x0D\x0A    border-right: 1px dotted #4682B4;\x0D\x0A}\x0D\x0Adiv#l2 {\x0D\x0A    border-bottom: 3px solid #4682B4;\x0D\x0A    margin-bottom: 2px;\x0D\x0A    padding: 8px 1px!important;\x0D\x0A    border-left: 1px dotted #4682B4;\x0D\x0A    border-right: 1px dotted #4682B4;\x0D\x0A}\x0D\x0Ainput#u2, input#pass1, input#u1, input#pass2, input#u3 {\x0D\x0A    text-align: center;\x0D\x0A    border: 1.5px solid #337ab7;\x0D\x0A    border-radius: 4px;\x0D\x0A    width: 50%!important;\x0D\x0A\x0D\x0A}\x0D\x0Adiv#l2 button.btn.btn-primary {\x0D\x0A    width: 85px;\x0D\x0A    position: inherit;\x0D\x0A    height: 26px;\x0D\x0A    margin-bottom: 4px;\x0D\x0A    padding: 0 0 3px;\x0D\x0A    font-family: \'jazeera\',FontAwesome;\x0D\x0A}\x0D\x0A.checkbox {\x0D\x0A    margin-top: -25px!important;\x0D\x0A    margin-left: -83px!important;\x0D\x0A    position: fixed;\x0D\x0A    float: right;\x0D\x0A /*   margin-right: 100px!important;*/\x0D\x0A}\x0D\x0Aul.nav.nav-tabs {\x0D\x0A    background-color: white!important;\x0D\x0A    border: none;\x0D\x0A    border-bottom: 3px solid #337ab7;\x0D\x0A    padding-bottom: 2px;\x0D\x0A}\x0D\x0Aa.label.label-primary.fl img.fl {\x0D\x0A    display: none;\x0D\x0A}\x0D\x0Abutton.btn.fr.btn-success.fa.fa-refresh {\x0D\x0A    float: left;\x0D\x0A    margin-right: 5px!important;\x0D\x0A    margin-left: 5px!important;\x0D\x0A}\x0D\x0A\x0D\x0Aa.label.label-primary.fl {\x0D\x0A    width: 68%!important;\x0D\x0A    border-radius: 5px!important;\x0D\x0A    margin: 5px -4px;\x0D\x0A    padding: 3px!important;\x0D\x0A    margin-top: 5px;\x0D\x0A    margin-bottom: 2px;\x0D\x0A    font-family: \'jazeera\',FontAwesome;\x0D\x0A    font-size: 13px!important;\x0D\x0A    text-align: center!important;\x0D\x0A\x0D\x0A}\x0D\x0A.nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover {\x0D\x0A    color: #337ab7;\x0D\x0A    background-color: #ffffff;\x0D\x0A    text-align: center;\x0D\x0A}\x0D\x0A.nav-tabs>li:hover {\x0D\x0A    background-color: #337ab7;\x0D\x0A}\x0D\x0A.nav-tabs>li>a:hover {\x0D\x0A    border-color: #ffffff #eee #ddd;\x0D\x0A    border: 2px solid;\x0D\x0A    background-color: #4a97ec;\x0D\x0A    color: #ffffff;\x0D\x0A}\x0D\x0A.nav-tabs>li {\x0D\x0A    background: #A6F0FF;\x0D\x0A    -webkit-animation: mymove 1s infinite; /* Chrome, Safari, Opera */\x0D\x0A    animation: mymove 6s infinite;\x0D\x0A    width: 33%;\x0D\x0A    border: 1px solid #a7a4a4;\x0D\x0A    margin-left: 1px;\x0D\x0A    border-radius: 6px 6px 0 0;\x0D\x0A    height: 40px!important;\x0D\x0A}\x0D\x0A/* Chrome, Safari, Opera */\x0D\x0A@-webkit-keyframes mymove {\x0D\x0A    from {background-color: #A6F0FF;}\x0D\x0A    to {background-color: white;}\x0D\x0A}\x0D\x0A\x0D\x0A/* Standard syntax */\x0D\x0A@keyframes mymove {\x0D\x0A    from {background-color: #A6F0FF;}\x0D\x0A    to {background-color: white;}\x0D\x0A}\x0D\x0A.nav-tabs>li>a {\x0D\x0A    color: #ffffff;\x0D\x0A    margin: auto auto;\x0D\x0A    border: 1px solid #0b3361;\x0D\x0A    text-align: center;\x0D\x0A    background-color: #337ab7;\x0D\x0A    width: 95%;\x0D\x0A    height: 90%!important;\x0D\x0A    margin-top: 2px;\x0D\x0A    padding: 5px 0px!important;\x0D\x0A    font-family: \'jazeera\',FontAwesome;\x0D\x0A}\x0D\x0A\x0D\x0Abutton.btn.fr.btn-success.fa.fa-refresh {\x0D\x0A    padding: 0px;\x0D\x0A    border-radius: 15px;\x0D\x0A    background-image: linear-gradient(to bottom,#337ab7 0,#093e6b 100%);\x0D\x0A    border-color: #0b5ca2;\x0D\x0A}\x0D\x0Alabel.label.label-primary.mini.fl {\x0D\x0A    width: 34%!important;\x0D\x0A    padding: 1px;\x0D\x0A    border-radius: 0px 0px 0px 5px!important;\x0D\x0A    margin-top: -3px;\x0D\x0A    float: right;\x0D\x0A}\x0D\x0A.fr.borderg {\x0D\x0A    padding: 1px;\x0D\x0A    border-radius: 0px 0px 5px 0px!important;\x0D\x0A    margin-top: -3.50px;\x0D\x0A    background-color: #4682B4!important;\x0D\x0A    border: .1px solid #4682B4;\x0D\x0A    float: left;\x0D\x0A    color: #fff;\x0D\x0A    height:20.40px;\x0D\x0A}\x0D\x0Aimg.fr.co {\x0D\x0A    margin: 4px 6px;\x0D\x0A    border-radius: 5px!important;\x0D\x0A}\x0D\x0Aimg.fitimg.fl.u-pic {\x0D\x0A    border-radius: 6px;\x0D\x0A}\x0D\x0A/*input#u1, input#pass2, input#u3, input#pass1, input#u2 {\x0D\x0A    border-color: #c9c7c7;\x0D\x0A    float: right;\x0D\x0A    margin-top: 2px;\x0D\x0A    width: 51%;\x0D\x0A}*/\x0D\x0Abody.bg,div#d2 {\x0D\x0A    background-color: #f1eff1!important;\x0D\x0A}\x0D\x0Aspan.s1.fa.fa-user.label.badgex.label-as-badge.label-success {\x0D\x0A    padding: 0px 3px 2px;\x0D\x0A    margin-right: 5px;\x0D\x0A}\x0D\x0A.fr.borderg, .fr.borderg a {\x0D\x0A    font-size: 12px !important;\x0D\x0A    padding: 0 5px!important;\x0D\x0A    color: #fff;\x0D\x0A    \x0D\x0A}\x0D\x0A\x0D\x0Alabel.fl.label.loginstat {\x0D\x0A    float: right!important;\x0D\x0A    border-radius: 5px!important;\x0D\x0A    position: absolute;\x0D\x0A    top: 0;\x0D\x0A    right: 0;\x0D\x0A    margin: 5px -4px;\x0D\x0A    padding: 1px 8px 4px!important;\x0D\x0A    margin-top: 5px;\x0D\x0A    font-family: \'jazeera\',FontAwesome;\x0D\x0A    font-size: 13px !important;\x0D\x0A}\x0D\x0Adiv#d0 span {\x0D\x0A    background-color: red;\x0D\x0A}\x0D\x0A\x0D\x0A</style>')['insertBefore']('body');
+    $('.hand.nosel.fl.uzr.border')['css']({
+        "margin": '0px 1px 2px 2px '
+        , "border-radius": '5px'
+        , "border-color": '#d3d2d0'
+    })
+} else {
+    xharf = 'www.w99w.net'
+};
+$('<a href="#" class="btn btn-primary" style="padding: 1px 5px 3px;margin-top: -26px;width: 22%;float: right;position: relative;margin-right: 1px;font-family: \'jazeera\',FontAwesome;font-size: 13px!important;background-color: #ffffff!important;color: #337ab7;">التطبيق</a>\x0D\x0A<a href="#" class="btn btn-primary" style="padding: 1px 5px 3px;width: 22%;float: right;position: relative;margin-right: 1px;font-family: \'jazeera\',FontAwesome;font-size: 13px!important;background-color: #ffffff!important;color: #337ab7;">الاشتراكات</a>\x0D\x0A')['appendTo']('div#l2');
+$('div#tlogins button.btn.btn-primary')['click'](function () {
+    var _0x99c6x1 = setInterval(function () {
+        var _0x99c6x2 = $('.pmsgc')['length'];
+        if (_0x99c6x2 > 0) {
+            $('\x0D\x0A	<div class="uzr fl corner borderg mm" style="border-radius:5px;margin-bottom:-2px;width:99.5%;padding:0px; background-color:white;">\x0D\x0A      <img style="width: 36px; height: 38px; margin-left: 1px; margin-top: 1px; background-image: url(https://galychat.com/sico/z1cl0bul3f10.JPG);" class="fl fitimg hand u-pic    ">\x0D\x0A      <div class="uzr fl" style="padding:0px;width:80%">\x0D\x0A        <div style="padding:0px;width:100%;" class="fl">\x0D\x0A          <img class="fl u-ico" alt="" src="sico/z1cj4c8t8r10.png">\x0D\x0A          <span style="padding: 1px 8px; margin-top: 2px; display: block; max-width: 82%; border-radius: 3px; color: rgb(199, 103, 48);" class="corner nosel u-topic dots fl hand">ADMIN CHAT</span>\x0D\x0A        </div>\x0D\x0A        <br>\x0D\x0A        <div style="padding: 0px; width: 100%; color: rgb(60, 0, 255);" class=" u-msg   break  fl">\x0D\x0A		<div style="padding: 0px;width: 100%;color: rgb(60, 0, 255);text-align: right;display: block;margin-top: -17px;" class=" u-msg   break  fl"> مرحباً بك 👋 <h1 style="display: inline-block;color: red;">' + getuser(myid)['topic'] + '</h1> نقدّر تواجدك معنا، ونتمنى لك يوماً سعيداً إن شاء الله </div>\x0D\x0A      </div>\x0D\x0A    </div></div>\x0D\x0A	')['appendTo']('div#d2');
+            clearInterval(_0x99c6x1)
+        } else {
+            console['log'](_0x99c6x2)
+        }
+    }, 2000)
+});
+var _0x70c2 = ['div#tlogins input#u1', 'insertBefore', '<font style="width: 100%;display: block;font-size: 14px!important;font-family: \'jazeera-light\',FontAwesome;margin-bottom: 2px;text-align: center;">'];
+$(_0x70c2[2])[_0x70c2[1]](_0x70c2[0]);
+var _0x564a = ['div#d2bc', 'insertBefore', '\x0D\x0A'];
+$(_0x564a[2])[_0x564a[1]](_0x564a[0]);
+var _0xe4a3 = ['click', 'alcolor', 'addClass', 'asim', 'indexOf', 'text', 'filter', 'div#users .fl.mini.u-msg', 'on', 'label.ae.fa.label.label-primary.fa-user']
+    , _0xdd61 = [_0xe4a3[0], _0xe4a3[1], _0xe4a3[2], _0xe4a3[3], _0xe4a3[4], _0xe4a3[5], _0xe4a3[6], _0xe4a3[7], _0xe4a3[8], _0xe4a3[9]];
+$(_0xdd61[9])[_0xdd61[8]](_0xdd61[0], function () {
+    $(_0xdd61[7])[_0xdd61[6]](function () {
+        return -0 < $(this)[_0xdd61[5]]()[_0xdd61[4]](_0xdd61[3])
+    })[_0xdd61[2]](_0xdd61[1])
+});
+var _0xb650 = ['maxlength', '12', 'attr', 'div#tlogins input'];
+$(_0xb650[3])[_0xb650[2]](_0xb650[0], _0xb650[1]);
+
+function logout() {
+    setTimeout(function () {
+        close(0)
+    })
+}
+var _333x390f = '_0x390f'
+    , _0x9d04 = ['hide', '.a3', 'click', 'div#tlogins .btn.btn-primary', 'div#tlogins', 'insertBefore', '<div style="z-index: 1001;background-color: #4682B4;border: 3px solid #D1EEFF;border-radius: 0 0 14px 14px;font-family: \'jazeera\',FontAwesome;padding: 2px 2px 2px 2px;margin: 0;color: #2d2d2d;position: absolute;margin-top:-302px!important;font-size: 14px!important;text-align: center;width: 388px;bottom: 3px;margin-left:-3px;color: #fff;" class="a3">   شات غالي وغالي </div>'];
+$(_0x9d04[3])[_0x9d04[2]](function () {
+    $(_0x9d04[1])[_0x9d04[0]]()
+}), $(_0x9d04[6])[_0x9d04[5]](_0x9d04[4]), $(_0x9d04[8])[_0x9d04[5]](_0x9d04[7])
