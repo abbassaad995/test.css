@@ -1,6 +1,6 @@
 if(location.protocol!='https:'){location.protocol='https:';}
 
-$(`<img src="https://2.top4top.net/p_1437rc1jp1.gif
+$(`<img src="https://1.top4top.net/p_1431me1js1.gif
 " class="fr" style="width:100%;margin-right: 2px;">
 <a id="des3" href="" style="border-radius: 24px;width:23%;margin:2px;" class="fl mini  fa  fa-facebook
  btn btn-primary"> فيس بوك</a>
