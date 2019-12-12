@@ -18,10 +18,7 @@ btn btn-default"> اتصل بنا</a>
 btn btn-primary"> ..عـراق..  </a>
  <center></div></div></div>
 `).insertBefore('.nav-tabs');
-$('.nav-tabs').addClass('fl').css('width','100%');
-$('a[href="https://jawalhost.com/"]').removeAttr('href');
-$( "button.btn.btn-primary" ).css( "border-radius", "24px 24px 24px 24px" );
-$(".border.corner").css("border-radius","24px 24px 24px 24px");
+
 
 
 $(`<center><div><div width="75.5%" style="background-color:#404040; color: #FF0000;border-radius: 5px 5px 5px5px;border-bottom: 2px solid #ffffff;border-top: 2px solid#ffffff;padding-bottom: 2px!important;"  
@@ -30,13 +27,7 @@ $(`<center><div><div width="75.5%" style="background-color:#404040; color: #FF00
 $
 $(`<div><marquee direction="right" width="100%" id="des1" onmouseover="this.stop()" onmouseout="this.start()" scrolldelay="0" scrollamount="5">🌸 ادارة الموقع ترحب بكم   🌸 اهلا وسهلا بكم في شات عراق  المحبة  للجوال </marquee></div>`).insertBefore('div#tlogins .lonline.light.break');
 
-$(`<link rel="stylesheet" type="text/css" href="//www.fontstatic.com/f=jazeera" />
-<link rel="stylesheet" href="https://raw.githack.com/abbassaad995/test.css/master/عراق.css">
-<style>
-.fitimg.fl.u-pic  {box-shadow: 0 1px 1px -1px  rgb(0, 95, 105), 0 0 6px rgb(0, 95, 105);border-radius: 4px 4px 4px 4px;;}
-textarea.fl.filw.corner.tbox {border-radius: 10px;padding-left: 5px;border: 2px solid #005F69;margin-top: 2px;}
-.label.tc.border.btn.fl, .label.tc.border.btn.fl {border: 2px solid #adadad;font-family: 'jazeera',FontAwesome;border-radius: 24px 24px 24px 24px;}
-</style>`).insertBefore('body');
+
 
 
 $(`<img style="height:50px;width: 100%;margin-right: 5px;background-color: #DE9DA5;" src="https://6.top4top.net/p_144161g921.gif" border="0">`).insertBefore('div#d2bc');
