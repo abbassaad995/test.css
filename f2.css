@@ -1,0 +1,209 @@
+.hmsg {
+    background - color: #ebf1ff!important
+}.bg {
+    background - color: #c178c0
+}#
+des1 {
+    margin - bottom: 2 px;
+    font - family: el messiri, FontAwesome!important;
+    background - image: linear - gradient(90 deg, #a12f9fb8 0, #a12f9fde 10 % , #a12f9f 51 % , #a12f9fe0 89 % , #a12f9fb8 100 % );
+    color: #f9f9f9;
+    border - radius: 3 px;
+    padding: 4 px 0!important;
+    padding - bottom: 3 px
+}.onedes {
+    transform: matrix(1, 0, 0, 1, 216, 0);position: absolute;margin - top: 31 px;float: left;text - align: left
+}.btn - primary, .label - primary {
+    background - color: #a12f9f!important;
+    border: 0
+}.fa - cog: before, .fa - commenting - o: before, .fa - gear: before, .fa - group: before, .fa - users: before {
+    content: ""
+}.s1.fa.fa - user.label.badgex.label - as - badge.label - success {
+    background - color: transparent
+}.btn - primary {
+    border - color: #fff!important;
+    border - radius: 5 px!important
+}.ae.label.label - primary.fa.fa - gear {
+    color: #ffd900
+}.border {
+    border - radius: 3 px
+}#
+des0 {
+    background - color: #a12f9f
+}#
+des3, #des4 {
+    text - align: center!important
+}#
+des4, label.label.label - primary.mini.fl {
+    background - image: linear - gradient(90 deg, #d86292 0, #ca497e 10 % , #b72e66 51 % , #ca497e 89 % , #d86292 100 % )
+}
+div# l1 input# u1 {
+    width: 80 % ;margin - left: 38.5 px!important;margin - left: 1 px
+}
+div# l3 button {
+    margin - top: 13 px;
+    width: 30 %
+}
+div# l2 button, div# l3 button {
+    border: 1 px solid# fff!important;border - radius: 24 px!important;height: 28 px
+}
+div# l1 input# u1 {
+    border - radius: 15 px;
+    border: 1 px solid# e1e0e0;
+    margin - top: 3 px;
+    text - align: center;
+    border - right: 7 px solid;
+    border - left: 7 px solid;
+    border - color: #a12f9f
+}
+div# l2 input# u2 {
+    width: 66 % ;padding: 0!important;float: right;margin: 2 px 5 px 2 px 0
+}
+div# l2 input# pass1 {
+    width: 55 % ;padding: 0!important;float: right;margin: 2 px 25 px 2 px 0
+}
+div# l3 input# pass2 {
+    width: 55 % ;padding: 0!important;float: right;margin: 2 px 25 px 2 px 0
+}
+div# l3 input# u3 {
+    width: 66 % ;padding: 0!important;float: right;margin: 2 px 5 px 2 px 0
+}.checkbox {
+    top: 5 px!important;margin - left: 35 px!important
+}
+div# l2 input# u2, div# l3 input# u3 {
+    margin - left: -6 px;
+    border - radius: 15 px;
+    border: 1 px solid# e1e0e0;
+    text - align: center;
+    border - right: 7 px solid;
+    border - left: 7 px solid;
+    border - color: #a12f9f
+}
+div# l2 input# pass1, div# l3 input# pass2 {
+    border - radius: 15 px;
+    border: 1 px solid# e1e0e0;
+    text - align: center;
+    border - right: 7 px solid;
+    border - left: 7 px solid;
+    border - color: #a12f9f
+}
+div# l2, div# l3 {
+    padding: 2 px!important
+}
+div# l1 {
+    margin: 0 1 px - 18 px;padding: 0!important
+}
+div# l1, div# l2, div# l3 {
+    border - bottom: 2 px solid;
+    margin - bottom: 2 px;
+    border - top: 2 px solid;
+    margin - top: 0;
+    border - color: #a12f9f;
+    border - radius: 15 px;
+    background: transparent url(tot.png) no - repeat scroll right top;
+    height: 62 px
+}
+div# l1 button {
+    border - radius: 24 px!important;
+    width: 60 % ;
+    height: 30 px;
+    margin - left: 75.5 px!important
+}
+div# l2 button {
+    width: 30 %
+}
+label.fl.label.loginstat {
+    border - radius: 15 px!important;
+    position: absolute;
+    margin - left: -1 px!important
+}.label - success {
+    background - color: #a12f9f
+}
+div.label.label - primary {
+    font - family: none!important
+}.fa.fa - user - plus {
+    color: #fff!important
+}
+a.label.label - primary.fl img.fl, button.btn.fr.btn - success.fa.fa - refresh, div# l2 br, div# l3 br {
+    display: none
+}#
+des4, .des2, div# l1 input# u1 {
+    border - radius: 15 px!important
+}.des2 {
+    background - color: #fff;
+    border - radius: 0;
+    padding: 2 px 10 px;
+    margin: 3 px 8 px!important
+}#
+des3 {
+    text - decoration: dotted;
+    color: #fff;
+    margin - left: 2 px!important;
+    display: inline - block;
+    margin - right: 4.4 px!important
+}#
+des4 {
+    color: #f9f9f9!important;font - size: 13 px!important
+}.fr.co, div# tlogins img.fr.co {
+    border - radius: 3 px!important;
+    height: 10 px
+}.fa.fa - user - secret {
+    color: #b40666;margin - top: 4 px!important
+}
+label.label.label - primary.mini.fl {
+    width: 87.5 % !important;padding: 1 px;margin - top: 0;border - radius: 15 px!important
+}
+div# tlogins::-webkit - scrollbar {
+    width: 5 px;height: 10 px
+}
+div# tlogins::-webkit - scrollbar - button {
+    width: 5 px;height: 5 px
+}
+div# tlogins::-webkit - scrollbar - thumb {
+    background: 0 0;border: 71 px# fff;border - radius: 31 px;background - image: linear - gradient(90 deg, #a12f9fb8 0, #a12f9fde 10 % , #a12f9f 51 % , #a12f9fe0 89 % , #a12f9fb8 100 % )
+}.border, div# tlogins {
+    box - shadow: inset 1 px 1 px 1 px 0# a12f9f2e, 0 0 2 px# a12f9f61
+}
+div# tlogins::-webkit - scrollbar - thumb: active {
+    background: 0 0
+}
+div# tlogins::-webkit - scrollbar - track {
+    background: #fff;border: 65 px# fff;border - radius: 34 px
+}
+div# tlogins::-webkit - scrollbar - track: hover {
+    background: 0 0
+}
+div# tlogins::-webkit - scrollbar - track: active {
+    background: 0 0
+}
+div# tlogins::-webkit - scrollbar - corner {
+    background: 0 0
+}
+div# tlogins.fl.mini.u - msg {
+    margin - top: 3 px!important;
+    border - radius: 3 px!important
+}
+label.fl.nosel.label.pnhead {
+    margin - left: 0!important;
+    padding: 5 px;
+    width: 85 % ;
+    display: block;
+    background - color: #a12f9f
+}
+div# tlogins img.fitimg.fl.u - pic {
+    padding: 0;border - radius: 3 px;margin - right: 5 px;box - shadow: inset 1 px 1 px 1 px 1 px# a12f9f30,
+    0 0 5 px# a12f9f75
+}
+ul.nav.nav - tabs > li > a {
+    color: #fff;border: none;text - align: center;background - color: #a12f9f;border - radius: 3 px;display: initial;width: 80 % ;float: left;padding: 0!important
+}
+ul.nav.nav - tabs > li.active > a {
+    color: #fff;background - color: #a12f9f;border: none;border - radius: 3 px
+}
+ul.nav.nav - tabs > li {
+    width: 32 % ;margin: 0 5 px 0 0
+}
+ul.nav.nav - tabs > li > .fa - user - plus: before, ul.nav.nav - tabs > li > .fa - user: before, ul.nav.nav - tabs > li > .fa - user: before {
+        float: right;margin - right: -26 % ;border: 1 px solid;padding: 0 2 px 1 px;border - radius: 3 px;width: 23 px;text - align: center;background - color: #fff;color: #a12f9f
+    }.nav > li > a: focus, .nav > li > a: hover {
+        color: #9abff9}ul.nav.nav-tabs{margin-top:1px;float:right;width:100%;padding:1px}
