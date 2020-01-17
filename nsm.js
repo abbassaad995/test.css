@@ -1,4 +1,4 @@
-$(`<img src="https://g.top4top.io/p_1477e3z3s1.gif" class="fr" style="width:100%;margin-right: 1px;">
+$(`<img src="https://g.top4top.io/p_1477k25nc1.gif" class="fr" style="width:100%;margin-right: 1px;">
 <div><marquee direction="right" width="99%" id="asim7" onmouseover="this.stop()" onmouseout="this.start()" scrolldelay="0" scrollamount="2">    شات نـسـيـم  بـغـداد  للجوال السعادة تجمعنا  ●اهلا وسهلا بكم في دردشة نـسـيـم  بـغـداد  ● · لا تدع الدردشة تلهيك عن صلاتك ولا تستخدم الشات في ما لا يرضي الله  </marquee></div>
 <div id="asim10"><center><a id="asim33" href="iraqstar1.com" target="_blank" type="button" style=" width: 22%; margin: 2px;" class="btn btn-primary btn-sm">التطبيق</a><a id="asim33" href="iraqstar1.com" target="_blank" type="button" style=" width: 22%; margin: 2px;" class="btn btn-primary btn-sm">اشتراكات</a>
 <div id="asim10"><center><a id="asim33" href="iraqstar1.com" target="_blank" type="button" style=" width: 22%; margin: 2px;" class="btn btn-primary btn-sm">نـسـيـم</a><a id="asim33" href="iraqstar1.com" target="_blank" type="button" style=" width: 22%; margin: 2px;" class="btn btn-primary btn-sm">بـغـداد</a>
