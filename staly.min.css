@@ -1,0 +1,240 @@
+ .fr{float:right;}
+ .fl{float:left;}
+ 
+  .msg{  background-color:#f0f0f5 ;border: 1px solid grey;margin-top:-1px;padding:2px;margin-right:3px;margin-left:3px;  }
+  .nobreak
+{		 display:inline;
+         white-space: nowrap;
+         word-wrap: nowrap;      /* IE 5+ */
+         word-break: keep-all; 
+}   
+         .tbox{overflow:scroll; border: 1px solid lightgrey  ;padding:0px;max-height:26px;min-height:26px;height:26px;  font-weight:bold;overflow:hidden;resize:none;}
+.emoii{width:22px; max-width:22px; height:22px; margin:0px; padding:5px;}
+.hid{display:none;}
+.noflow{overflow:hidden;}
+div
+{ 
+  line-height: 20px;   
+}
+.hand{cursor: hand;}
+img
+{
+    vertical-align: middle; 
+} 
+         .break
+         {
+         overflow: auto;
+         word-wrap: break-word;      /* IE 5+ */
+         overflow-x:hidden;
+		 overflow-wrap: break-word; 
+         } 
+         .ui-icon-adjust:after {
+    background-image: url("<url removed for brevity>");
+    background-repeat: no-repeat;
+    background-position: 4px 3px;
+    float:left;
+}         [data-role='icon']:after {
+    background-image: url("<url removed for brevity>");
+    background-repeat: no-repeat;
+    background-position: 4px 3px;
+    float:left;
+}
+*
+{  
+  font-family:   Verdana, Geneva, Tahoma, sans-serif;font-weight:bold !important;text-shadow: none !important;font-size: 13.8px !important;
+}
+.u-ico
+{
+    padding-right:2px;margin-top:2px;max-height:16px;
+}
+html, body {
+    height : 100%;
+}
+.ui-tabs-nav{padding:0px;}
+.ui-tabs-panel{padding:0px;}
+.darker{background-color: #33333a}
+     .emoi{width:18px; max-width:18px; height:auto; max-height:18px; }
+ .unread{background-color:#FFC89D!important;}
+ div
+{ 
+  line-height: 20px;   
+}
+.b{border:1px solid grey;}.bb{border:2px solid grey;}
+table, th, td {
+    border: 0;
+}
+
+th, td {
+    padding:  0px;
+}
+table {  
+    border-spacing: 0;
+    border-collapse: collapse;
+}
+ .ui-popup-container{margin:0px;padding:0px; }
+ 
+ .animating{
+	animation: animate 1s cubic-bezier(0,1,1,0);			
+}
+ 
+.mini{
+font-size: 90%!important;
+}
+.corner{    border-radius: 5px;}
+.minix{
+font-size: 80%!important;
+}
+@keyframes animate{
+	from {
+	   transform: scale(1);
+	}
+	to {
+	   transform: scale(1.5);
+	}
+}
+.nosel,.u-ico,.u-pic,.tago{
+ -webkit-touch-callout: none;
+-webkit-user-select: none;
+-khtml-user-select: none;
+-moz-user-select: none;
+-ms-user-select: none;
+user-select: none;    cursor: default;
+}
+.ui-dialog-contain {
+	width: 92.5%;
+	max-width: 500px;
+	margin: 0% auto 15px auto;
+	padding: 0;
+	position: relative;
+	top: 2px;
+}
+.center
+{
+    margin: 0 auto;
+}
+.dots
+{
+    display:inline-block;
+    white-space: nowrap;
+    overflow:hidden !important;
+    text-overflow: ellipsis;max-width: 100%;
+}
+.ui-tabs .ui-tabs-panel 
+{
+    padding:0px;
+    margin:0px;
+ 
+}
+
+.ui-widget-overlay 
+{
+    background-color: black;
+    background-image: none;
+    opacity: 0.12;
+    z-index: 1040;    
+}
+.ui-dialog .ui-dialog-content
+{
+ padding:0px;   
+    
+}
+ .ui-tabs-anchor
+{
+    padding:0px;
+}
+.hgreen
+{
+    background-color: darkseagreen;
+}
+.hred
+{
+        background-color: indianred;
+}
+.borderg
+{
+    border: 1px solid lavender;
+}
+.border
+{
+    border: 1px solid black;
+}
+nopadding
+{
+    padding: 0px;margin: 0px;
+}
+.fitimg {
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+}
+.ui-dialog .ui-dialog-titlebar
+{  
+    padding: 5px;
+}
+.bord
+{
+ border:1px solid dodgerblue !important;   
+}
+.uzr
+{margin-left:2px!important;border-radius: 5px;}
+html {
+    height : 100vh;
+    width : 100vw;
+}
+.ui-state-default .ui-tabs-anchor
+{
+    padding: 5px!important;
+}
+.mw
+{width:380px;max-width:380px;min-width: 380px;}
+.mww
+{width:260px;max-width:260px;min-width: 260px;} 
+    
+    .pn2 {
+      width: 99%;
+      max-width: 320px;
+      height: 80%;
+      left: 5px;
+      float: right;
+      z-index: 2;
+      margin: 0px;
+      position: absolute;
+    }
+    
+    .panel-heading {
+      padding: 6px;
+    }
+    
+    .fa {
+      text-align: left;
+    }
+    
+    .modal-header {
+      padding: 5px;
+    }
+    
+    .badge {
+      padding: 0px 3px;
+    }
+    
+    .bx {
+      margin-top: -8px;
+    }
+    
+    .panel-body {
+      padding: 2px;
+      height: auto;
+    }
+    
+    button.btn { 
+      padding: 5px 5px;
+    }
+    
+    .tab-pane {
+      padding: 0px;
+    }
+    
+    .d2 {
+      padding-bottom: 2px;
+    }
+    .popover-content{padding:1px;}
