@@ -1,0 +1,64 @@
+
+
+
+
+
+<link rel="stylesheet" href="/Styles/LoginWithUsers.css">
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>دخول الدردشة</title>
+</head>
+<body>
+
+    <div style="width: 300px;margin:0 auto;">
+        <form action="/Home/LoginAsGuest" method="post" target="_blank" dir="rtl" style="background-color: #D05862; ">
+            <div style="padding: 10px">
+                <label style="display: inline-block; width: 75px;">الاسم المستعار</label>
+                <input name="nickname" style="width:150px;" autocomplete="off" />
+            </div>
+                <span style="color: red; padding: 10px">شات ورد الحب للجوال </span>
+            <div style="padding: 10px">
+                <button style="border: 1px solid #004000;color:#000000;background: #DCDCDC; width: 60px;">دخول</button>
+            </div>
+        </form>
+
+        <br />
+        <form action="/Home/LoginAsUser" method="post" target="_parent" dir="rtl" style="background-color: #D05862; ">
+            <div style="padding: 10px">
+                <label style="display: inline-block; width: 75px;">الاسم المستعار</label>
+                <input name="nickname" style="width:150px;" autocomplete="off" />
+            </div>
+            <div style="padding: 10px">
+                <label style="display: inline-block; width: 75px;">كلمة السر</label>
+                <input type="password" name="password" style="width:150px;" autocomplete="off" />
+            </div>
+
+
+            <div style="padding: 10px">
+                <label style="display: inline-block; ">مخفي</label>
+                <input type="checkbox" name="unvisible" style="margin-left: 35px;" />
+                <label style="display: inline-block; ">شبح</label>
+                <input type="checkbox" name="ghost" />
+            </div>
+
+            <div style="padding: 10px">
+                <button style="border: 1px solid #004000; color: #000000;background: #DCDCDC; width: 60px;">دخول</button>
+            </div>
+        </form>
+        <div>
+            <div>
+                <p><span id="users-count"> (0) المتواجدين الآن</span>  </p>
+            </div>
+            <div id="users-list-In-Login" style="height: 250px; overflow: auto;">
+
+            </div>
+        </div>
+    </div>
+
+    <script src="/scripts/LoginWithUsers?v=WKqTUUo3V1oQdQX2q7pwNp54MqKBSzycHUFi17z_AJA1"></script>
+
+</body>
+</html>
